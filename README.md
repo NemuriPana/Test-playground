@@ -1,3 +1,4 @@
+<a href="https://howlcon.neocities.org/" target="_blank" rel="noopener noreferrer"><img src="https://i.ibb.co/Y37Pvjp/Howl-Con-Website-Button-Border.gif" alt="HowlCon website button" border="0"></a>
 # Docsify Template
 
 > A simple [Docsify](https://github.com/docsifyjs/docsify/) template for creating Markdown-based documentation sites, with no build process required.
